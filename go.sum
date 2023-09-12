@@ -1,0 +1,4 @@
+github.com/apache/thrift v0.19.0 h1:sOqkWPzMj7w6XaYbJQG7m4sGqVolaW/0D28Ln7yPzMk=
+github.com/apache/thrift v0.19.0/go.mod h1:SUALL216IiaOw2Oy+5Vs9lboJ/t9g40C+G07Dc0QC1I=
+github.com/ozkatz/thrift-utils v0.0.0-20230905161459-f6b0c2ab7ebb h1:+ouPE42HCiF5iPM4P56TZcjz/RfI9h7Y1M6SurZBk0g=
+github.com/ozkatz/thrift-utils v0.0.0-20230905161459-f6b0c2ab7ebb/go.mod h1:54IT0EYoO4e0e4AvtLsudUQVCyqt7d84MGl8l58fnTI=
